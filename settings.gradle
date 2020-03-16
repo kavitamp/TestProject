@@ -1,0 +1,2 @@
+include ':app', ':veriticalviewpager'
+rootProject.name='ProjectToUploadOnJitpack'
